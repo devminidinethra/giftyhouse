@@ -1,0 +1,221 @@
+/* General Body and HTML Styles */
+body, html {
+    height: 100%;
+    margin: 0;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* --------------- Registration Form Styles --------------- */
+
+/* Wrapper for Registration Form */
+.register-wrapper {
+    max-width: 1300px;
+    width: 95%;
+    margin: 60px auto;
+    background-color: #fff;
+    border-radius: 8px;
+    display: flex;
+    overflow: hidden;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Left Section of Registration Form */
+.register-left {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.register-left img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Right Section of Registration Form */
+.register-right {
+    padding: 60px;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #FFFFFF;
+}
+
+.register-right h1, .register-right h3 {
+    color: #2A3D66; /* Elegant Navy Blue */
+}
+
+.register-right p {
+    color: #636E72; /* Steel Gray */
+}
+
+/* Form Input Styles */
+.form-group label {
+    color: #2A3D66;
+    font-weight: bold;
+}
+
+.input-group-text {
+    background-color: #f1f1f1;
+    border-right: 0;
+    color: #636E72; /* Steel Gray */
+}
+
+.form-control {
+    border-left: 0;
+    border-color: #D4AF37;
+}
+
+.form-control:focus {
+    border-color: #D4AF37;
+    box-shadow: 0 0 5px 2px #D4AF37;
+}
+
+::placeholder {
+    color: #D4AF37;
+}
+
+/* Registration Button */
+.register-button {
+    width: 100%;
+    background-color: #D4AF37; /* Luxurious Gold */
+    border-color: #D4AF37;
+    color: #fff;
+    font-weight: bold;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.register-button:hover {
+    background-color: #F26D6D; /* Darker Gold */
+    border-color: #F26D6D;
+    transform: scale(1.05);
+    color: #fff;
+}
+
+/* Login Link (for Register Form) */
+.login-link {
+    margin-top: 20px;
+    font-size: 0.9rem;
+    color: #F26D6D;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+}
+
+.login-link:hover {
+    color: #F26D6D;
+    text-decoration: underline;
+}
+
+
+/* --------------- Login Form Styles --------------- */
+
+/* Wrapper for Login Form */
+.login-wrapper {
+    max-width: 1050px; /* Reduced width */
+    width: 95%;
+    margin: 40px auto; /* Reduced margin */
+    background-color: #fff;
+    border-radius: 8px;
+    display: flex;
+    overflow: hidden;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Left Section of Login Form */
+.login-left {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.login-left img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Right Section of Login Form */
+.login-right {
+    padding: 50px; /* Reduced padding */
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.login-right h1, .login-right h3 {
+    color: #2A3D66;
+}
+
+.login-right p {
+    color: #636E72;
+}
+
+/* Form Input Styles */
+.form-group label {
+    color: #2A3D66;
+    font-weight: bold;
+}
+
+.input-group-text {
+    background-color: #f1f1f1;
+    border-right: 0;
+    color: #636E72;
+}
+
+.form-control {
+    border-left: 0;
+    border-color: #D4AF37;
+}
+
+.form-control:focus {
+    border-color: #D4AF37;
+    box-shadow: 0 0 5px 2px #D4AF37;
+}
+
+::placeholder {
+    color: #D4AF37;
+}
+
+/* Login Button */
+.login-button {
+    width: 100%;
+    background-color: #D4AF37;
+    border-color: #D4AF37;
+    color: #fff;
+    font-weight: bold;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.login-button:hover {
+    background-color: #F26D6D;
+    border-color: #F26D6D;
+    transform: scale(1.05);
+    color: #fff;
+}
+
+/* Register Link (for Login Form) */
+.register-link {
+    margin-top: 15px;
+    font-size: 0.85rem; /* Smaller font size */
+    color: #F26D6D;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+}
+
+.register-link:hover {
+    color: #F26D6D;
+    text-decoration: underline;
+}
