@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- Font Awesome CDN -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <link rel="icon" href="logo.png" type="image/png">
+
+    <style>
+        /* General Footer Styles */
+        footer {
+            background-color: #2c3e50;
+            color: white;
+            padding: 30px 0;
+            border-top: 4px solid #f39c12;
+        }
+
+        footer img {
+            width: 120px;
+            margin-bottom: 10px;
+        }
+
+        footer h5 {
+            font-size: 18px;
+            margin-bottom: 15px;
+            text-transform: uppercase;
+            font-weight: bold;
+            color: #f39c12;
+        }
+
+        footer p {
+            font-size: 14px;
+            line-height: 1.6;
+            margin-bottom: 10px;
+        }
+
+        .footer-one {
+            margin-bottom: 20px;
+        }
+
+        .footer-one ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .footer-one ul li {
+            margin-bottom: 8px;
+        }
+
+        .footer-one ul li a {
+            color: white;
+            text-decoration: none;
+            font-size: 16px;
+            display: flex;
+            align-items: center;
+        }
+
+        .footer-one ul li a:hover {
+            color: #f39c12;
+            transform: translateX(5px);
+            transition: transform 0.3s ease;
+        }
+
+        .footer-one ul li a i {
+            margin-right: 8px;
+            font-size: 16px;
+        }
+
+        .social-icons i {
+            color: white;
+            font-size: 22px;
+            margin-right: 15px;
+            transition: color 0.3s ease;
+        }
+
+        .social-icons i:hover {
+            color: #f39c12;
+        }
+
+        .instagram-images img {
+            margin: 5px;
+            border-radius: 10px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .instagram-images img:hover {
+            transform: scale(1.05);
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .instagram-images {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .instagram-images img {
+            width: 30%;
+            height: auto;
+        }
+
+        .copyright {
+            text-align: center;
+            margin-top: 10px;
+            font-size: 16px;
+        }
+
+        .copyright h3 {
+            font-size: 20px;
+            color: #f39c12;
+        }
+
+        .footer-one h6 {
+            font-size: 14px;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+
+        .footer-one p {
+            font-size: 14px;
+            margin-bottom: 5px;
+        }
+
+        .contact-info1 {
+            margin-top: 20px;
+            padding: 10px;
+        }
+
+        .contact-info1 h6 {
+            font-size: 16px;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+
+        .contact-info1 p {
+            font-size: 14px;
+            margin-bottom: 10px;
+        }
+
+        .contact-info1 div {
+            margin-bottom: 15px;
+        }
+
+        .contact-info1 p br {
+            display: inline-block;
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <!-- Footer One: Company Info -->
+                <div class="footer-one col-lg-3 col-md-6 col-sm-12 text-center">
+                    <img src="logo.png" alt="Logo">
+                    <p>We provide the best products for the most affordable price.</p>
+                </div>
+
+                <!-- Footer Two: Quick Links -->
+                <div class="footer-one col-lg-3 col-md-6 col-sm-12">
+                    <h5>Quick Links</h5>
+                    <ul class="quick-links">
+                        <li><a href="home.php"><i class="fas fa-home"></i> Home</a></li>
+                        <li><a href="shop.php"><i class="fas fa-box-open"></i> Shop</a></li>
+                        <li><a href="about.php"><i class="fas fa-info-circle"></i> About</a></li>
+                        <li><a href="contact.php"><i class="fas fa-envelope"></i> Contact</a></li>
+                    </ul>
+                </div>
+
+                <!-- Footer Three: Contact Info -->
+                <div class="footer-one col-lg-3 col-md-6 col-sm-12">
+                    <h5>Contact Us</h5>
+                    <div class="contact-info1">
+                        <div>
+                            <h6>Address</h6>
+                            <p>52/B/2 Suriyapaluwa Rd, Eldeniya, Kadawatha</p>
+                        </div>
+                        <div>
+                            <h6>Phone Number</h6>
+                            <p>+94 719946378<br>+94 715656812</p>
+                        </div>
+                        <div>
+                            <h6>Email</h6>
+                            <p>info@giftyhouse.com</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Footer Four: Instagram Feed -->
+                <div class="footer-one col-lg-3 col-md-6 col-sm-12">
+                    <h5>Instagram</h5>
+                    <div class="row">
+                        <div class="col-4">
+                            <img src="img/Shop/butterfly.png" class="img-fluid" alt="Instagram 1">
+                        </div>
+                        <div class="col-4">
+                            <img src="img/Shop/earings1.png" class="img-fluid" alt="Instagram 2">
+                        </div>
+                        <div class="col-4">
+                            <img src="img/Shop/handbag.png" class="img-fluid" alt="Instagram 3">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-4">
+                            <img src="img/Shop/earings_2.png" class="img-fluid" alt="Instagram 4">
+                        </div>
+                        <div class="col-4">
+                            <img src="img/Shop/jewelry_set13.png" class="img-fluid" alt="Instagram 5">
+                        </div>
+                        <div class="col-4">
+                            <img src="img/Shop/wallet5.png" class="img-fluid" alt="Instagram 6">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Social Media & Copyright -->
+            <div class="copyright mt-4">
+                <h3>Follow Us</h3>
+                <ul class="list-inline social-icons">
+                    <li class="list-inline-item">
+                        <a href="#"><i class="fab fa-facebook"></i></a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="#"><i class="fab fa-linkedin"></i></a>
+                    </li>
+                </ul>
+                <p>&copy; 2025 GiftyHouse. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
