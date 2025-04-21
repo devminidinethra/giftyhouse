@@ -5,7 +5,15 @@
   <img src="https://img.shields.io/badge/Language-PHP-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/HTML-%3C%2F%3E-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/CSS-%23-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Bootstrap-Framework-purple?style=flat-square" />
 </p>
+
+
+---
+## 📸 Screenshots
+
+![gifty](https://github.com/user-attachments/assets/6301c217-c94c-4249-88ad-095e44bd5190)
 
 ---
 
@@ -36,12 +44,7 @@
 
 ---
 
-## 📸 Screenshots
 
-![gifty](https://github.com/user-attachments/assets/6301c217-c94c-4249-88ad-095e44bd5190)
-
-
----
 
 
 
