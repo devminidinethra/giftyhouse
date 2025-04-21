@@ -12,7 +12,7 @@
 
 ## ✨ Overview
 
-**Gifty House** is a modern and elegant online gift-selling platform where users can browse, discover, and purchase thoughtful gifts for every occasion. Built primarily with **PHP**, **HTML**, **CSS**, and **Hack**, the website ensures a smooth and enjoyable shopping experience.
+**Gifty House** is a modern and elegant online gift-selling platform where users can browse, discover, and purchase thoughtful gifts for every occasion. Built primarily with **PHP**, **HTML**, and  **CSS**, the website ensures a smooth and enjoyable shopping experience.
 
 ---
 
@@ -34,7 +34,6 @@
 | **PHP**    | Backend functionality and logic |
 | **HTML**   | Page structure and layout |
 | **CSS**    | Styling and responsiveness |
-| **Hack**   | Advanced scripting and dynamic features |
 
 ---
 
@@ -50,5 +49,5 @@ _Add your live site or screenshots here_
 
 ---
 
-## 📁 Project Structure
+
 
