@@ -49,8 +49,8 @@
 
 | Part        | Technology             |
 |-------------|------------------------|
-| Backend     | PHP, Hack              |
-| Frontend    | HTML, CSS              |
+| Backend     | PHP                    |
+| Frontend    | HTML, CSS,  Bootstrap  |
 | Styling     | Custom CSS             |
 | Deployment  | Localhost (XAMPP/WAMP) |
 
