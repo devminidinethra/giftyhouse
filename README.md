@@ -11,8 +11,15 @@
 
 
 
+**✨ Gifty House Homepage**
+
 
 ![gifty](https://github.com/user-attachments/assets/6301c217-c94c-4249-88ad-095e44bd5190)
+
+
+**⚙️ Admin Panel Dashboard**
+
+![Admin Gifty](https://github.com/user-attachments/assets/d5acc41d-2e6e-472d-bce3-9d0ed5d89c10)
 
 ---
 
