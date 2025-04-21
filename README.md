@@ -39,14 +39,8 @@
 
 ## 📸 Screenshots
 
-_Add your live site or screenshots here_
+![gifty](https://github.com/user-attachments/assets/6301c217-c94c-4249-88ad-095e44bd5190)
 
-<p align="center">
-![gifty](https://github.com/user-attachments/assets/1878790e-a95e-4e6d-b1cb-b34d356ecb5a)
-
-  <br>
-  <em>Homepage of Gifty House</em>
-</p>
 
 ---
 
