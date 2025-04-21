@@ -10,8 +10,7 @@
 </p>
 
 
----
-## 📸 Screenshots
+
 
 ![gifty](https://github.com/user-attachments/assets/6301c217-c94c-4249-88ad-095e44bd5190)
 
