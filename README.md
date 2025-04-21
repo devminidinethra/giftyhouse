@@ -42,7 +42,7 @@
 _Add your live site or screenshots here_
 
 <p align="center">
- ![gifty](https://github.com/user-attachments/assets/c6a19a71-4105-4c00-9336-5dda3fb039c6)
+![gifty](https://github.com/user-attachments/assets/1878790e-a95e-4e6d-b1cb-b34d356ecb5a)
 
   <br>
   <em>Homepage of Gifty House</em>
