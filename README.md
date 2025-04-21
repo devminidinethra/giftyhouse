@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Language-PHP-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/HTML-%3C%2F%3E-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/CSS-%23-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hack-Lang-grey?style=flat-square" />
 </p>
 
 ---
