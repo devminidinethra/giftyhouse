@@ -42,8 +42,8 @@
 _Add your live site or screenshots here_
 
 <p align="center">
-  <img src=![gifty](https://github.com/user-attachments/assets/8026c68f-8b8d-4cf0-9a2c-b779fbbc9131)
-alt="Homepage Screenshot" />
+ ![gifty](https://github.com/user-attachments/assets/c6a19a71-4105-4c00-9336-5dda3fb039c6)
+
   <br>
   <em>Homepage of Gifty House</em>
 </p>
